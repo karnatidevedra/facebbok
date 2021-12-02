@@ -1,3 +1,3 @@
-Hello this line is updated now.. 
+Hello 
 
 This file comntains the deployment script.
